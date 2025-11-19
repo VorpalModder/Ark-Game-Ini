@@ -5,18 +5,19 @@ The goal of this project is to provide a set of **ready-to-use, well‑organized
 This aims to:
 - Set balanced stacks of item 
 - Remove broken or unusable engrams (eg : radio)
+- Reorder some engram to make leveling more intuitive (mainly grouping structure of the same material)
 - Replace certain vanilla items with equivalents from selected mods when they are more relevant or functional. (eg: S+ structures)
 - Improve the engram tab latency
 - Offer clear visualisation of engrams by levels
 
 ## 🧩 Variants
 - **Game.Minimalist.ini**  
-  Designed for **new players**, this version removes superfluous or confusing engrams that might overwhelm beginners.  
+  Designed for **new players**, this version removes superfluous, confusing, or game breaking engrams that might overwhelm beginners.  
   It keeps the essentials and integrates useful modded items where appropriate, ensuring accessibility while still offering a rich gameplay experience.  
   The aim is to provide a clean, welcoming environment that encourages exploration without drowning players in unnecessary options.  
 
 - **Game.Complete.ini** *(planned)*  
-  A comprehensive version including all engrams, both vanilla and modded, for players who want full access.  
+   Same as minimalist but with all items, even potentially game breaking ones.
  
 
 ---
