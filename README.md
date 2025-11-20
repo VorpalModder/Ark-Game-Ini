@@ -22,13 +22,14 @@ This aims to:
 
 ---
 ## 🤝 Engram replace from mod
- - Structure +  -> Need to verify some engrams
- - Upgradable TekRifle -> Need to verify engram
+ - Structure +  -> Missing some engrams
+ - Upgradable TekRifle -> Missing engram
+ - Dino Storage V2
 
 ## 🤝 Engram added from mods
  - Immersive Taming
  - Revive My Dino
- - CKFR & CKFRSF -> Missing some engrams
+ - CKFR & CKFRSF -> Missing SF engrams
  - Krakens Better Dino
  - Balanced Narcotics -> Missing engrams
  - Arkomatic
