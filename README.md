@@ -1,4 +1,5 @@
 # ARK Config Project – Game.ini Variants
+<img src="https://upload.wikimedia.org/wikipedia/fr/7/7d/Ark_Survival_Evolved_Logo.png" width="120">
 
 ## 🎯 Purpose
 The goal of this project is to provide a set of **ready-to-use, well‑organized, and commented `Game.ini` files** for ARK.  
