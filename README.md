@@ -22,18 +22,20 @@ This aims to:
  
 
 ---
-## 🤝 Engram replace from mod
- - Structure +  -> Missing some engrams
- - Upgradable TekRifle -> Missing engram
+## 🤝 Engram replacement
+_(IF YOU DO NOT WANT TO USE THESE MODS, DO NOT FORGET TO REPLACE BACK VANILLA ENGRAMS)_
+ - Structure + 
+ - Upgradable TekRifle
  - Dino Storage V2
 
-## 🤝 Engram added from mods
+## 🤝 Engram added
  - Immersive Taming
  - Revive My Dino
- - CKFR & CKFRSF -> Missing SF engrams
+ - CKFR & CKFRSF
  - Krakens Better Dino
- - Balanced Narcotics -> Missing engrams
+ - Balanced Narcotics
  - Arkomatic
+ - Eco's Garden Decor
 
 
 ## 📂 Installation
