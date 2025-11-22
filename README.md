@@ -36,9 +36,15 @@ _(IF YOU DO NOT WANT TO USE THESE MODS, DO NOT FORGET TO REPLACE BACK VANILLA EN
  - Revive My Dino
  - CKFR & CKFRSF
  - Krakens Better Dino
+ - Ark Additions
  - Balanced Narcotics
  - Arkomatic
  - Eco's Garden Decor
+ - Bridge
+ - Awsome Spyglass
+ - Auction House
+ - Hunter Traps
+ - RP Storage
 
 
 ## 📂 Installation
