@@ -25,13 +25,13 @@ This aims to:
  
 
 ---
-## 🤝 Engram replacement
+## 🤝 Mods Engram replacement
 _(IF YOU DO NOT WANT TO USE THESE MODS, DO NOT FORGET TO REPLACE BACK VANILLA ENGRAMS)_
  - Structure + 
  - Upgradable TekRifle
  - Dino Storage V2
 
-## 🤝 Engram added
+## 🤝 Mods Engram added
  - Immersive Taming
  - Revive My Dino
  - CKFR & CKFRSF
