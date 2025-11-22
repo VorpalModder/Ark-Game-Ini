@@ -4,7 +4,7 @@
 ## 🎯 Purpose
 The goal of this project is to provide a set of **ready-to-use, well‑organized, and commented `Game.ini` files** for ARK.  
 This aims to:
-- Set balanced stacks of item 
+- Set balanced stacks of item (Lighter than stack mods)
 - Remove broken or unusable engrams (eg : radio)
 - Reorder some engram to make leveling more intuitive (mainly grouping structure of the same material)
 - Replace certain vanilla items with equivalents from selected mods when they are more relevant or functional. (eg: S+ structures)
