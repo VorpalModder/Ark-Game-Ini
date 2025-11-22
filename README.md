@@ -12,6 +12,9 @@ This aims to:
 - Offer clear visualisation of engrams by levels
 
 ## 🧩 Variants
+- **Game.Vanilla.ini**  
+  Only the base game engrams.
+  
 - **Game.Minimalist.ini**  
   Designed for **new players**, this version removes superfluous, confusing, or game breaking engrams that might overwhelm beginners.  
   It keeps the essentials and integrates useful modded items where appropriate, ensuring accessibility while still offering a rich gameplay experience.  
