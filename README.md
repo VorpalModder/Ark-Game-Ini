@@ -20,8 +20,11 @@ This aims to:
   It keeps the essentials and integrates useful modded items where appropriate, ensuring accessibility while still offering a rich gameplay experience.  
   The aim is to provide a clean, welcoming environment that encourages exploration without drowning players in unnecessary options.
   
-  <pre style="overflow-x:auto; white-space:nowrap;">    ActiveMods=1565015734,731604991,821530042,1837445660,1404697612,1195125628,1251632107,1609138312,1814953878,1957185915,2016338122,2121156303,506506101,741203089,880871931,945065004,817096835,2788780899,898049820,1231538641,558651608,1445181373,1522327484,1426087933,2959693896,2249455687
-  </pre>
+
+
+- **Game.MinimalistHunted.ini**  
+  Similar to Minimalist, but replace Kraken's better dino engrams with The Hunted V2, as they are not compatible.
+
 - **Game.Complete.ini** *(planned)*  
    Same as minimalist but with all items, even potentially game breaking ones.
  
@@ -34,10 +37,11 @@ _(IF YOU DO NOT WANT TO USE THESE MODS, DO NOT FORGET TO REPLACE BACK VANILLA EN
  - Dino Storage V2
 
 ## 🤝 Mods Engram added
+ - Krakens Better Dino
+ - The Hunted V2 (Only in Hunted File)
  - Immersive Taming
  - Revive My Dino
  - CKFR & CKFRSF
- - Krakens Better Dino
  - Ark Additions
  - Balanced Narcotics
  - Arkomatic
