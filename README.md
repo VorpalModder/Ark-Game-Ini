@@ -38,6 +38,7 @@ _They replace vanilla, so dont forget to put back vanilla engram if you do not p
  - The Hunted V2 (Only in Hunted File)
 
 ## 🤝 Mods Engram added
+_Optional — if you don’t want to use it, just don’t add the mod to your game_
  - Krakens Better Dino
  - Immersive Taming
  - Revive My Dino
