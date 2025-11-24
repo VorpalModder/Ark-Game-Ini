@@ -31,7 +31,7 @@ This aims to:
 
 ---
 ## 🤝 Mods Engram replacement
-_(IF YOU DO NOT WANT TO USE THESE MODS, DO NOT FORGET TO REPLACE BACK VANILLA ENGRAMS)_
+_They replace vanilla, so dont forget to put back vanilla engram if you do not plan to use them_
  - Structure + 
  - Upgradable TekRifle
  - Dino Storage V2
