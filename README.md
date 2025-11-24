@@ -35,10 +35,10 @@ _(IF YOU DO NOT WANT TO USE THESE MODS, DO NOT FORGET TO REPLACE BACK VANILLA EN
  - Structure + 
  - Upgradable TekRifle
  - Dino Storage V2
+ - The Hunted V2 (Only in Hunted File)
 
 ## 🤝 Mods Engram added
  - Krakens Better Dino
- - The Hunted V2 (Only in Hunted File)
  - Immersive Taming
  - Revive My Dino
  - CKFR & CKFRSF
