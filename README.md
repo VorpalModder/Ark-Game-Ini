@@ -79,6 +79,8 @@ _Optional — if you don’t want to use it, just don’t add the mod to your ga
 - Awsome Spyglass
 - RP Storage
 
+---
+
 ## 📂 Installation
 
 1. Choose the configuration file variant you want to use.
